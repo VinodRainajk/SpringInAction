@@ -1,2 +1,5 @@
-package interfaces;public interface CompactDisc {
+package interfaces;
+
+public interface CompactDisc {
+    void play();
 }
